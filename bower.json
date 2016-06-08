@@ -1,0 +1,24 @@
+{
+  "name": "frontlabs",
+  "version": "0.0.1",
+  "authors": [
+    "Allan Alexandre <alexandesigner@gmail.com>"
+  ],
+  "description": "A front-end lab's that helps you build fast an modern web and mobile apps.",
+  "main": "app/css/styles.css",
+  "keywords": [
+    "Angular",
+    "jQuery",
+    "UIKit",
+    "Bootstrap",
+    "Foundation",
+    "Sass",
+    "SASS",
+    "Less",
+    "Gulp"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "^2.1.4"
+  }
+}
