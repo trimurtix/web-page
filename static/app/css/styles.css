@@ -1,0 +1,16 @@
+body,
+html {
+  background: #282d37;
+  height: 100%;
+}
+main {
+  display: table;
+  height: 100%;
+  width: 100%;
+  text-align: center;
+}
+.logo {
+  display: table-cell;
+  vertical-align: middle;
+  margin: 0 auto;
+}

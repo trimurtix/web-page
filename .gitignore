@@ -1,3 +1,8 @@
-app/bower_components
-bower_components
-node_modules
+# Static
+static/app/bower_components
+static/bower_components
+static/node_modules
+
+# Site
+site/.deploy/
+site/node_modules/
